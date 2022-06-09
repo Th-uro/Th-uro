@@ -3,7 +3,6 @@
 
 - 💼 I'm currently working at Concilie Online as a full stack developer
 - 📝 I'm a computer technician formed by CEFET/RJ
-- 🇧🇷 Born and living in Rio de Janeiro, Brazil
 - 🌱 Currently learning Systems Analysis and Development
 - 😄 Pronouns: He/His
 
