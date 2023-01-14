@@ -8,7 +8,9 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-monteiro/)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Th-uro&show_icons=true&theme=transparent)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th-uro&show_icons=true&theme=transparent" />
+</a>
 
 ## Technologies I use in my day
 
