@@ -9,12 +9,12 @@
 ## Social networks
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-monteiro/)
-
- ![Stats](https://github-readme-stats.vercel.app/api?username=Th-uro&theme=blue-green) 
+ 
+ ![Stats](https://github-readme-stats.vercel.app/api?username=Th-uro&show_icons=true&theme=transparent)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-uro&layout=compact&theme=transparent)
 
 ## Technologies I use in my day
-
- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-uro&theme=blue-green) 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
