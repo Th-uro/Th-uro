@@ -10,9 +10,9 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-oliveira-monteiro/)
  
- ![Stats](https://github-readme-stats.vercel.app/api?username=Th-uro&show_icons=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th-uro&show_icons=true&theme=radical)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-uro&layout=compact&theme=transparent)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th-uro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use in my day
 
